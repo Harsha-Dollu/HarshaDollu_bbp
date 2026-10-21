@@ -33,6 +33,3 @@ Deploy the Angular build behind a static host and FastAPI behind an authenticate
 
 Scheduling seed data has three batches across five equipment lanes. The simulator replays `data_kit/run_A.csv`; process time advances one minute per wall-clock second. A demo should show the Gantt violations, an edit that resolves one violation, then reset/start the simulator, wait one minute, and show automatic forecast/controller activity.
 
-## Hosting and recording
-
-Hosted URL: not deployed yet. Screen recording: not recorded yet.
