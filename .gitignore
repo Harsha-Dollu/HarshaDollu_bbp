@@ -1,0 +1,10 @@
+.venv/
+backend/bbp.db
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+.angular/
+
+Take_Home_SWE_ML_Brief.pdf
